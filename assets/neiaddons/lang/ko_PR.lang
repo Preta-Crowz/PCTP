@@ -1,0 +1,28 @@
+bdew.neiaddons.genetics=포레스트리 제네틱
+bdew.neiaddons.exnihilo=엑스니힐로
+
+bdew.neiaddons.breeding.beebreeding=벌 교배
+bdew.neiaddons.produce.beeproduce=벌 생산
+
+bdew.neiaddons.breeding.treebreeding=냐무 교배
+bdew.neiaddons.produce.treeproduce=냐무 생산
+
+bdew.neiaddons.breeding.flowerbreeding=꽃 교배
+
+bdew.neiaddons.breeding.butterflybreeding=냐비 교배
+
+bdew.exnihilo.hammer.label=엑스니힐로 망치
+bdew.exnihilo.sieve.label=엑스니힐로 시브
+
+bdew.exnihilo.barrel.burn=%s초 후에 불탄다냐!!!
+bdew.exnihilo.beetrap.spawn=생성 중 : %s%%
+bdew.exnihilo.crucible.fluid=액체 : %s %s mB
+bdew.exnihilo.crucible.solid=고체 : %s %s
+
+bdew.neiaddons.noserver=이 기능은 서버에 NEI 애드온이 설치되어야 한다냐.
+
+nei.options.tools.dump.neiaddons=NEI 애드온
+nei.options.tools.dump.neiaddons.dumped=%s이 덤프되었다냐. : %s
+nei.options.tools.dump.neiaddons.bee_mutations=벌 뮤테이션
+nei.options.tools.dump.neiaddons.tree_mutations=냐무 뮤테이션
+nei.options.tools.dump.neiaddons.flower_mutations=꽃 뮤테이션

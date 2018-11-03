@@ -1,0 +1,10 @@
+tooltip.ender_chest=엔더 상자 슬롯을 해금한다냐.
+tooltip.ender_pearl=엔더 펄 슬롯을 해금한다냐.
+tooltip.storage=27칸을 추가로 해금한다냐.
+tooltip.swap=현재 인벤토리와 교체한다냐.
+tooltip.open=OPI를 연다냐.
+key.enderpearl=퀵펄
+key.enderchest=엔더 인벤토리
+key.hotbar=핫바 교체
+key.opinventory=OPI
+slot.enderchest=엔더 상자가 없다냐.
