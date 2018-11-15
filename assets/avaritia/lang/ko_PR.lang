@@ -42,7 +42,7 @@ item.avaritia.comb.nerfed.name=너프된 벌집
 item.avaritia.comb.cosmic.name=코스믹 벌집
 item.avaritia_beesource.infinity_drop.name=∞INFINITY∞
 item.avaritia_beesource.dust.name=가루
-item.extremely_primordial_pearl.name=태초 이전의 진주
+item.extremely_primordial_pearl.name=강력한 태초의 진주
 #
 # Blocks
 tile.compressed_workbench.name=1차 압축 조합대
@@ -157,17 +157,17 @@ avaritia.bee.neutronium.desc=아놔 미세먼지
 avaritia.bee.infinite=인피니티
 avaritia.bee.infinite.desc=YEEEEE
 
-classification.balanced=Balanced
-classification.balanced.desc=These bees get bored and drop dead the moment they complete whatever they're working on. They take the most long, convoluted routes and methods in order to keep themselves entertained.
-classification.infinite=Infinite
-classification.infinite.desc=They gather pranic energy from the hidden ley-lines and arcane geometries of the universe itself.
+classification.balanced=조화 
+classification.balanced.desc=그들이 무엇을 끝냈든 그들의 일이 끝냐면 죽지만, 그와 동시에 새 생명이 태어냡니다. 그들은 느리지만, 확실한 방법을 통해 지금까지 살아냠았습니다.
+classification.infinite=무한
+classification.infinite.desc=그들은 우주의 숨겨진 경계선과 원호 기하학에서 초자연적인 에너지를 모읍니다.
 
-avaritia.allele.speedNerfed=Nerfed
-avaritia.allele.lifespanArtificial=Artificial
+avaritia.allele.speedNerfed=너프된
+avaritia.allele.lifespanArtificial=인공적인
 #
 # Research
-avaritia.research_name.BIG_PEARL=Extremely Primordial Pearl
-avaritia.research_text.BIG_PEARL=Because you can always have more
+avaritia.research_name.BIG_PEARL=강력한 태초의 진주
+avaritia.research_text.BIG_PEARL=원한다면 언제든지
 avaritia.research_page.BIG_PEARL.1=Sure, the Primordial Pearl is pretty potent, but you think it could be even MORE potent.<BR><BR>By smashing several primordial pearls together in an arcane infusion, you create an even more potent item: The Extremely Primordial Pearl.<BR><BR>It's guaranteed to be even more primordial than a regular primordial pearl!
 avaritia.research_name.AKASHIC=Akashic Records
 avaritia.research_text.AKASHIC=More knowledge than you'll need
